@@ -5,7 +5,7 @@ return [
 
 	'database' => [
 
-			'name' => 'todo',
+			'name' => 'todo_web',
 
 			'username' => 'okeydev',
 
